@@ -1,0 +1,73 @@
+body {
+    background-color: rgb(40, 38, 38);
+    color:rgb(236, 226, 227);
+    font-family: Chalkduster, fantasy;
+    margin: 50px 150px;
+    background-image: url(images/chalkboard_bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    }
+    
+  .title {
+    font-weight:bold;
+    text-align: center;
+    font-size: 30px;
+    color:rgb(255, 111, 138);
+  }
+
+div {
+  color:rgb(134, 185, 255);
+  padding: 5px;
+  font-size: 20px;
+  }
+
+.about {
+  text-align: center;
+  border: 5px dotted rgb(255, 239, 120);
+  margin-bottom: 30px;
+}
+ p { 
+  font-size: 18px;
+  font-family: Bradley Hand, cursive;
+  line-height: 1.5;
+  text-align: justify;
+  padding: 20px;
+  text-indent: 50px;
+  color:rgb(236, 226, 227);
+    } 
+
+.info {
+  width: 350px;
+  padding: 10px;
+  text-align: center;
+  border: 5px dotted rgb(255, 239, 120);
+}
+
+ ul {
+    font-size: 18px;
+    font-family: Bradley Hand, cursive;
+    text-align: left;
+    color:rgb(236, 226, 227);
+  }
+
+.info {
+  float: left;
+  margin-left:47px
+}
+a:link {
+  color:rgb(187, 248, 255);
+}
+
+a:visited {
+  color:rgb(255, 182, 206);
+}
+
+a:hover {
+  color: rgb(255, 242, 196);
+}                                              
+
+a:active {
+  color: rgb(255, 106, 148);
+}
+
